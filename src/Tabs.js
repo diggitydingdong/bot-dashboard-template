@@ -1,4 +1,4 @@
-const tabsWithBot = ["guild-settings","category-sets", "role-menus", "moderation", "permissions", "members", "remove-me"];
+const tabsWithBot = ["guild-settings","tab-1","tab-2","tab-3"];
 const tabsWOutBot = ["invite-me"];
 
 const useTabs = (guilds, currentGuildId, currentTabId) => {
